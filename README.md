@@ -13,6 +13,7 @@ The engine employs a bunch of systems vital for any game engine software such as
 - Physics system(collision detection only)
 - Particle system
 - Audio system
+
 For more efficient manipulation with game objects entity component system is made used. For shading programs GLSL is used.
 
 Third party middleware:
